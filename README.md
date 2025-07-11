@@ -1,6 +1,6 @@
 🛒 E-Commerce Website Clone: A responsive front-end clone of Amazon's homepage built using HTML and CSS. This project replicates the layout and design of Amazon's main page including navbar, search bar, hero section, product boxes, and footer.
 
-🔗 Live Demo: [Click here to view](https://minalduggal.github.io/E-commerce-website-clone/)
+🔗 Live Demo: [Click here to view](https://minalduggal.github.io/E-Commerce-Clone/)
 
 🚀 Features
 - 🧭 Navigation bar with logo, search, and cart
