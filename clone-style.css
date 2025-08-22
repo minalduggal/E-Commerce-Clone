@@ -22,7 +22,7 @@
     text-decoration: none;
 }
 .logo{
-    background-image: url("shopping-logo.png");
+    background-image: url("assets/shopping-logo.png");
     background-size:cover;
     height:50px;
     width: 100px;
@@ -206,7 +206,7 @@
 }
 /* hero-section */
 .hero-section{
-    background-image: url("bg.jpg") ;
+    background-image: url("assets/bg.jpg") ;
     height: 400px;
     width: 100%;
     background-size: cover;
@@ -309,7 +309,7 @@ ul a:hover {
     align-items: center;
 }
 .logo{
-    background-image: url("shopping-logo.png");
+    background-image: url("assets/shopping-logo.png");
     background-size:cover;
     height:50px;
     width: 100px;
