@@ -7,6 +7,7 @@
 - 🖼️ Hero image banner
 - 🛍️ Multiple product rows
 - 📦 Product cards with title, image, rating, and price
+- 📱 Fully responsive design (works on mobile, tablet, and desktop)
 - 🔚 Clean footer with links
   
 🛠️ Technologies Used
